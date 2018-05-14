@@ -1,0 +1,172 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   21.20.16.4574
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.183 seconds
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Logan\Downloads\Digital Game-20170303T160530Z-001\Digital Game\GameDesignFinal\GRAVBIRD_wip_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LoopAcrossScreen..ctor () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+UnloadTime: 2.302944 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.745619 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.502479 ms (FindLiveObjects: 0.052892 ms CreateObjectMapping: 0.020804 ms MarkObjects: 0.417851 ms  DeleteObjects: 0.009520 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.329344 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.211217 ms (FindLiveObjects: 0.021157 ms CreateObjectMapping: 0.014457 ms MarkObjects: 0.170666 ms  DeleteObjects: 0.004231 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491901 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.199581 ms (FindLiveObjects: 0.020804 ms CreateObjectMapping: 0.011988 ms MarkObjects: 0.162204 ms  DeleteObjects: 0.003526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.384000 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.545499 ms (FindLiveObjects: 0.082159 ms CreateObjectMapping: 0.021509 ms MarkObjects: 0.429840 ms  DeleteObjects: 0.010578 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.309268 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.181245 ms (FindLiveObjects: 0.021862 ms CreateObjectMapping: 0.012341 ms MarkObjects: 0.142104 ms  DeleteObjects: 0.003878 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.325113 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.196407 ms (FindLiveObjects: 0.020099 ms CreateObjectMapping: 0.011988 ms MarkObjects: 0.159383 ms  DeleteObjects: 0.003526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.361432 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.510590 ms (FindLiveObjects: 0.077575 ms CreateObjectMapping: 0.019746 ms MarkObjects: 0.398105 ms  DeleteObjects: 0.013399 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.369895 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.199581 ms (FindLiveObjects: 0.020451 ms CreateObjectMapping: 0.012341 ms MarkObjects: 0.162909 ms  DeleteObjects: 0.003173 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.032464 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.189002 ms (FindLiveObjects: 0.018688 ms CreateObjectMapping: 0.011988 ms MarkObjects: 0.154446 ms  DeleteObjects: 0.003526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.335691 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.212980 ms (FindLiveObjects: 0.020804 ms CreateObjectMapping: 0.017278 ms MarkObjects: 0.171019 ms  DeleteObjects: 0.003526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.370601 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.205928 ms (FindLiveObjects: 0.021862 ms CreateObjectMapping: 0.012341 ms MarkObjects: 0.162909 ms  DeleteObjects: 0.007757 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.485906 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.220385 ms (FindLiveObjects: 0.020451 ms CreateObjectMapping: 0.011636 ms MarkObjects: 0.184066 ms  DeleteObjects: 0.003173 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.391405 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 399.
+Total: 0.174545 ms (FindLiveObjects: 0.021157 ms CreateObjectMapping: 0.011988 ms MarkObjects: 0.136815 ms  DeleteObjects: 0.003878 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 30cc -> priority: 1 
